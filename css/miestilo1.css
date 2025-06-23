@@ -1,0 +1,99 @@
+h1{
+    color: rgb(0, 0, 0);
+}
+
+
+
+.tourney-uniquifier {
+  font-family: "Tourney", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.tangerine-regular {
+  font-family: "Tangerine", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.tangerine-bold {
+  font-family: "Tangerine", cursive;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.aguafina-script-regular {
+  font-family: "Aguafina Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fondo_azul{
+    background-color: #106eea;
+}
+
+#top_bar{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+i{
+margin-left: 5px;
+margin-right: 5px;
+}
+
+#hero{
+  background-image: url('../img/hero-bg.jpg');
+  padding-top: 160px;
+  padding-bottom: 160px;
+}
+
+.p_arribaabajo{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+
+#servicios{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.color_azul{
+  color: #106eea;
+}
+
+.sombras{
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.grande{
+  font-size: 50px;
+}
+
+.mediano{
+  font-size: 30px;
+}
+
+.fondo_azul_muyclaro{
+  background-color: #f5f9ff;
+}
+
+.centrado{
+  text-align: center;
+}
+
+.gran_padding{
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
